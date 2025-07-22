@@ -10,6 +10,9 @@ This project is a **complete implementation of a GPT-style transformer language 
 - **Training Pipeline**: Complete training loop with validation monitoring and checkpointing  
 - **Text Generation**: Autoregressive text generation with sampling
 
+<img width="995" height="678" alt="image" src="https://github.com/user-attachments/assets/0c5c5ecf-4ff6-43a4-b955-298adf8e1c60" />
+
+
 ## 🎓 Educational Purpose & Limitations
 
 **This project is designed to demonstrate understanding of LLM/Attention Architecture fundamentals.**
